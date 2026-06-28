@@ -1,0 +1,4 @@
+This is the official GitHUb repo for everything related to the Felicia Trading Bot project.
+
+Currently things are still being set up.
+Stay tuned!
