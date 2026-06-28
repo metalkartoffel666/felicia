@@ -1,7 +1,7 @@
 ==== Changelog for version 0.7.2a ====
 > general purpose of this update:
 >> version 0.7.2a is the very first version of Felicia Trading Bot that was published
-==== release date: 07/12/2026 ====
+==== release date: t.b.a. ====
 > changes over previous version (0.7.1a):
 >> significant:
 >>> moved project to GitHub for initial publication
